@@ -1,0 +1,35 @@
+***MENUGROUP=HSIANG_TOOLS
+
+***TOOLBARS
+**TB_HSIANG_MAIN
+ID_Hsiang_00   [_Toolbar("HsiangToolbox", _Top, _Show, 0, 0, 1)]
+ID_Hsiang_CT   [_Button("Change Text (CT)", "C:/Hsiang_Toolbox/Icons/CT.bmp", "C:/Hsiang_Toolbox/Icons/CT.bmp")]^C^CCT
+ID_Hsiang_LL   [_Button("Auto Label (LL)", "C:/Hsiang_Toolbox/Icons/LL.bmp", "C:/Hsiang_Toolbox/Icons/LL.bmp")]^C^CLL
+ID_Hsiang_LX   [_Button("Lock Xref (LX)", "C:/Hsiang_Toolbox/Icons/LX.bmp", "C:/Hsiang_Toolbox/Icons/LX.bmp")]^C^CLX
+ID_Hsiang_SD   [_Button("Set DimStyle (SD)", "C:/Hsiang_Toolbox/Icons/SD.bmp", "C:/Hsiang_Toolbox/Icons/SD.bmp")]^C^CSD
+ID_Hsiang_NN   [_Button("Sequence Num (NN)", "C:/Hsiang_Toolbox/Icons/SN.bmp", "C:/Hsiang_Toolbox/Icons/SN.bmp")]^C^CNN
+ID_Hsiang_T    [_Button("Thickness (T)", "C:/Hsiang_Toolbox/Icons/CW.bmp", "C:/Hsiang_Toolbox/Icons/CW.bmp")]^C^CT
+ID_Hsiang_SLT  [_Button("Slot (SLT)", "C:/Hsiang_Toolbox/Icons/SLT.bmp", "C:/Hsiang_Toolbox/Icons/SLT.bmp")]^C^CSLT
+ID_Hsiang_DL   [_Button("Delete Layer (DL)", "C:/Hsiang_Toolbox/Icons/DL.bmp", "C:/Hsiang_Toolbox/Icons/DL.bmp")]^C^CDL
+ID_Hsiang_DC   [_Button("Delete Cookie (DC)", "C:/Hsiang_Toolbox/Icons/DC.bmp", "C:/Hsiang_Toolbox/Icons/DC.bmp")]^C^CDC
+ID_Hsiang_DE   [_Button("Delete Enclosed (DE)", "C:/Hsiang_Toolbox/Icons/DE.bmp", "C:/Hsiang_Toolbox/Icons/DE.bmp")]^C^CDE
+ID_Hsiang_LD   [_Button("Text Leader (LD)", "C:/Hsiang_Toolbox/Icons/LD.bmp", "C:/Hsiang_Toolbox/Icons/LD.bmp")]^C^CLD
+ID_Hsiang_SCD  [_Button("Staggered Dim (SCD)", "C:/Hsiang_Toolbox/Icons/SCD.bmp", "C:/Hsiang_Toolbox/Icons/SCD.bmp")]^C^CSCD
+ID_Hsiang_UP   [_Button("Unfold Plate (UP)", "C:/Hsiang_Toolbox/Icons/UP.bmp", "C:/Hsiang_Toolbox/Icons/UP.bmp")]^C^CUP
+
+***POP1
+**MN_HSIANG
+[HsiangToolbox]
+ID_Hsiang_CT   [Change Text (CT)]^C^CCT
+ID_Hsiang_LL   [Auto Label (LL)]^C^CLL
+ID_Hsiang_LX   [Lock Xref Layers (LX)]^C^CLX
+ID_Hsiang_SD   [Set Current DimStyle (SD)]^C^CSD
+ID_Hsiang_NN   [Sequence Number (NN)]^C^CNN
+ID_Hsiang_T    [Thickness (T)]^C^CT
+ID_Hsiang_SLT  [Slot (SLT)]^C^CSLT
+ID_Hsiang_DL   [Delete Layer (DL)]^C^CDL
+ID_Hsiang_DC   [Delete Cookie (DC)]^C^CDC
+ID_Hsiang_DE   [Delete Enclosed (DE)]^C^CDE
+ID_Hsiang_LD   [Text Leader (LD)]^C^CLD
+ID_Hsiang_SCD  [Staggered Dim (SCD)]^C^CSCD
+ID_Hsiang_UP   [Unfold Plate (UP)]^C^CUP

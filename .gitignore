@@ -1,0 +1,9 @@
+# Claude Code 設定資料夾
+.claude/
+
+# pro-work 是獨立的 repo，分開管理
+pro-work/
+
+# Python cache
+__pycache__/
+*.pyc
