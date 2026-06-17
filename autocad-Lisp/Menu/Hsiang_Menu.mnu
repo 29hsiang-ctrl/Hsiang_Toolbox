@@ -21,7 +21,7 @@ ID_Hsiang_UP   [_Button("Unfold Plate (UP)", "C:/Hsiang_Toolbox/Icons/UP.bmp", "
 **MN_HSIANG
 [HsiangToolbox]
 ID_Hsiang_CT   [Change Text (CT)]^C^CCT
-ID_Hsiang_LL   [Auto Label (LL)]^C^CLL
+ID_Hsiang_LL   [流水式標籤 (LL)]^C^CLL
 ID_Hsiang_LX   [Lock Xref Layers (LX)]^C^CLX
 ID_Hsiang_SD   [Set Current DimStyle (SD)]^C^CSD
 ID_Hsiang_NN   [Sequence Number (NN)]^C^CNN
