@@ -28,7 +28,7 @@
     (princ "\n[Warning] No .lsp files found in Lisp folder!")
   )
   (princ (strcat "\n----------------------------------------------"))
-  (princ (strcat "\n[Done] Loaded " (itoa loadedCount) " files. Commands: CT, LL, LX, SD, NN, T, SLT, DL, DC, DE, LD, SCD, UP"))
+  (princ (strcat "\n[Done] Loaded " (itoa loadedCount) " files. Commands: CT, LL, LX, SD, NN, T, SLT, DL, DC, DE, LD, SCD, UP, CNT"))
   (princ "\n==============================================")
   (princ)
 )
